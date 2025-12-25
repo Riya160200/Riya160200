@@ -1,10 +1,27 @@
-<h2 align="left">👋 Hi, I'm Riya Gupta<br><br>🚀 Passionate about technology, problem-solving, and building meaningful projects.  <br>🎓 Currently learning and improving my skills in programming and development.  <br>💡 I enjoy exploring new tools, frameworks, and real-world applications of technology.  <br>🌱 Always curious and constantly learning.</h2>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Riya%20Gupta&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32" />
+</div>
 
-###
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3BEFF7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Tech+Enthusiast+%7C+Problem+Solver;Passionate+about+Innovation+%26+Development;Always+Learning+%2C+Always+Growing+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+## 🚀 About Me
 
-###
+<img align="right" height="180" src="https://i.imgflip.com/65efzo.gif" alt="Coding GIF" />
+
+🎓 **Passionate learner** exploring the realms of technology and development  
+💻 **Building meaningful projects** that solve real-world problems  
+🌱 **Constantly evolving** my skills in modern frameworks and tools  
+💡 **Innovation-driven** with a curiosity for emerging technologies  
+🔧 **Love experimenting** with new tools and best practices  
+⚡ **Fun fact:** Debugging is like being a detective in a crime movie where you're also the murderer!
+
+<br clear="both">
+
+---
+
+## 🛠️ Tech Stack & Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -38,32 +55,42 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+## 🌐 Connect With Me
+
+<div align="center">
+  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@your-channel)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/your-channel)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-invite)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+
 </div>
 
-###
+---
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Riya160200/Riya160200/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Riya160200/Riya160200/output/snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Riya160200/Riya160200/output/snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Riya160200/Riya160200/output/snake.svg" />
+</picture>
 
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
+---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Riya160200.Riya160200&"  />
+  
+![Profile Views](https://komarev.com/ghpvc/?username=Riya160200&style=for-the-badge&color=blueviolet)
+![Followers](https://img.shields.io/github/followers/Riya160200?style=for-the-badge&color=blue)
+![Stars](https://img.shields.io/github/stars/Riya160200?style=for-the-badge&color=yellow)
+
 </div>
 
-###
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+</div>
