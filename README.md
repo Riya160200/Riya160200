@@ -14,8 +14,7 @@
 💻 **Building meaningful projects** that solve real-world problems  
 🌱 **Constantly evolving** my skills in modern frameworks and tools  
 💡 **Innovation-driven** with a curiosity for emerging technologies  
-🔧 **Love experimenting** with new tools and best practices  
-⚡ **Fun fact:** Debugging is like being a detective in a crime movie where you're also the murderer!
+
 
 <br clear="both">
 
